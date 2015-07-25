@@ -1,0 +1,12 @@
+#Developing Data Products 
+It is an interactive shiny app that calculate tax.
+If you are working in Australia during **2015-2016** and you want to know how much tax you have to pay then this App is for you.
+
+
+Rules to calculate tax is taken from <https://www.ato.gov.au/Rates/Individual-income-tax-rates/>
+
+Please refer below website to run the app.
+<https://audtax.shinyapps.io/Tax_Info>
+
+
+
