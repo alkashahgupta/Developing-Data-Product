@@ -1,0 +1,18 @@
+---
+title: "about"
+output: html_document
+---
+
+This is a simple app to calculate tax. If you are working in Australia during **2015-2016** and you want to know how much tax you have to pay then this App is for you.
+
+
+It is an Interactive app. As soon as you enter your salary in left side the tax amount will be displayed on right side.
+
+
+The formula used to calculate Tax is taken from  <https://www.ato.gov.au/Rates/Individual-income-tax-rates/>
+
+The app do not include the:
+
+1. Medicare levy of 2%
+
+2. Temporary Budget Repair Levy; this levy is payable at a rate of 2% for taxable incomes over $180,000.
