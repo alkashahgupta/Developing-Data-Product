@@ -1,0 +1,13 @@
+---
+title: "README"
+output: html_document
+---
+
+#Developing Data Products 
+It is an interactive shiny app that calculate tax on Australian Salary.
+
+Please refer below website run the app and for more details.
+<https://audtax.shinyapps.io/Tax_Info>
+
+Rules to calculate tax is taken from <https://www.ato.gov.au/Rates/Individual-income-tax-rates/>
+
